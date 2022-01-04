@@ -1,0 +1,25 @@
+We can discuss about the payment on outside.
+I know it is not allowed on upwork platform.
+Do you have Skype or Slack?
+For easier and faster chatting...
+
+My information is:
+Skype 	-    live:.cid.276a5580aca4209b
+Discord	-    BlockchainMaster#7050
+
+Thanks.
+
+actually, I prefer to work outside due to expensive fee on this platform.
+anyway it's up to you.
+
+Token Symbol : LLG
+Total Supply: 100,000,000
+10% Tax on buy/sell (3%  auto deposit to marketing wallet, 4%  auto deposit to dev wallet 3% auto deposit to LP, all in BNB currency)
+Maximum amount of tokens an account can hold : 1,200,000 LLG (1.2M LLG token max wallet) . But exclude  from this check : LP, owner wallet, marketing wallet, dev wallet, some additional address
+Whitelist Dev, owner, marketing wallet, 10  wallet address : 0% Tax, 0 fee
+Able to increase Max wallet, max transaction limit over time
+Flexible tax changes like with liq fees but for marketing and dev fee too, so they can turn off/adjust taxes if needed. 
+Able to change dev address, marketing address, owner address
+Max transaction amount 
+
+jp@kromeon.com
